@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<RegionsOfInterest version="1.0">
+  <Region name="water" color="255,0,0">
+    <PixelDef>
+      <SpatialRef>coordSys={PROJCS["WGS_1984_UTM_Zone_17N",GEOGCS["GCS_WGS_1984",DATUM["D_WGS_1984",SPHEROID["WGS_1984",6378137.0,298.257223563]],PRIMEM["Greenwich",0.0],UNIT["Degree",0.0174532925199433]],PROJECTION["Transverse_Mercator"],PARAMETER["False_Easting",500000.0],PARAMETER["False_Northing",0.0],PARAMETER["Central_Meridian",-81.0],PARAMETER["Scale_Factor",0.9996],PARAMETER["Latitude_Of_Origin",0.0],UNIT["Meter",1.0]]} tiePoint=0,0,293355,4625985 pixelSize=30,30 dims=572,543 rotation=0</SpatialRef>
+      <Coordinates>
+248 32 56 54 121 66 193 80 109 132 242 135 74 156 129 159 203 167 56 182 221 205 59 228 195 240 457 46 310 51 381 55 508 81 294 92 388 111 473 121 325 145 495 153 383 158 285 171 429 184 270 214 476 225 333 254 525 200 527 297
+      </Coordinates>
+    </PixelDef>
+  </Region>
+</RegionsOfInterest>
